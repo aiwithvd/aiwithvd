@@ -8,14 +8,6 @@ I am a skilled AI/ML Engineer specializing in Generative AI, Data Science, and M
 
 ---
 
-## **Technical Skill Set:**
-
-- **Generative AI:** LangGraph, LangChain, LlamaIndex
-- **Data Science:** Python, TensorFlow, PyTorch, Scikit-Learn, Keras
-- **AI/ML Engineering:** MLOps, AWS Bedrock, SageMaker, OpenAI, Anthropic, Llama
-- **Cloud Platforms:** AWS
-- **Tools & Frameworks:** Docker, Kubernetes, FastAPI, Git, Terraform
-
 - **Generative AI:** 
   ![LangGraph](https://img.shields.io/badge/LangGraph-FF5722?style=flat-square&logo=graphql) 
   ![LangChain](https://img.shields.io/badge/LangChain-4CAF50?style=flat-square&logo=react) 
